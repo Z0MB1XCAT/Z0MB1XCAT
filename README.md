@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Z0MB
 
-🚀 **Student Developer | Roblox Creator | Aviation Enthusiast**
+🚀 **Student Developer | Programmer | Aviation Enthusiast**
 
 ---
 
 ## 🧠 About Me
 
 * 💻 I’m a student passionate about **coding, game development, and building cool systems**
-* 🎮 Currently developing games on **Roblox**, focusing on **mechanics, systems, and gameplay design**
+* 🎮 Currently developing an app on **aviation**, focusing on **mechanics, systems, and graphic design**
 * ✈️ Aviation enthusiast — I love everything from flight sims to real-world ops
 * ⚡ Known for picking things up *fast* and actually making them work
 
@@ -15,11 +15,11 @@
 
 ## 🛠️ What I’m Working On
 
-* 🐱 **Battle of the Cats (Roblox Game)**
+* **AviatesAir Tracker ✈️**
 
-  * Tag-style gameplay with **stealing mechanics**
-  * Custom **Quick Time Event (QTE) system** (keyboard + mobile support)
-  * Advanced **stamina system** (sprinting, rolling, climbing integration)
+  * FlightRadar mixed with vAMSYS type systems**
+  * Data from the app is linked with the website.
+  * Advanced flight-tracking systems (not to toot my own horn)
   * Smooth **UI feedback & gameplay polish systems**
 
 * 🎯 Constantly improving:
@@ -36,6 +36,7 @@
 Languages:
 - Lua (Roblox)
 - HTML (yes, I actually love HTML 😄)
+- C# (Painful)
 
 Core Skills:
 - Game mechanics & systems design
@@ -44,8 +45,7 @@ Core Skills:
 - Debugging & optimization
 
 Concepts:
-- Client ↔ Server communication (RemoteEvents, etc.)
-- State systems (cooldowns, stamina, interactions)
+- Backend and frontend coding
 - Modular & scalable code structure
 ```
 
@@ -62,7 +62,7 @@ Concepts:
 
 ## 📈 Current Goals
 
-* 🚀 Build polished, high-quality Roblox experiences
+* 🚀 Build polished, high-quality app experiences
 * 🧠 Level up my programming to a more advanced level
 * 🎨 Improve frontend + visual design (apps & interfaces)
 * 🌍 Contribute more to **open source projects**
@@ -71,8 +71,7 @@ Concepts:
 
 ## ⚡ Fun Fact
 
-I jumped into a long endurance race in a racing sim after barely a week…
-…and didn’t get reported for dirty driving 😎
+I love Formula one, infact I even met Lando Norris once!
 
 ---
 
@@ -82,4 +81,4 @@ I jumped into a long endurance race in a racing sim after barely a week…
 
 ---
 
-⭐ *“Build it, break it, improve it — repeat.”*
+⭐ *“If it works, it works.”*
