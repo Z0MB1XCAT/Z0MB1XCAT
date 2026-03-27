@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Z0MB
+# 👋 Hey, I'm Dexter!
 
 🚀 **Student Developer | Programmer | Aviation Enthusiast**
 
