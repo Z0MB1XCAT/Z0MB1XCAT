@@ -8,7 +8,7 @@
 
 * 💻 I’m a student passionate about **coding, game development, and building cool systems**
 * 🎮 Currently developing an app on **aviation**, focusing on **mechanics, systems, and graphic design**
-* ✈️ Aviation enthusiast — I love everything from flight sims to real-world ops
+* ✈️ Aviation enthusiast, I love everything from flight sims to real-world ops
 * ⚡ Known for picking things up *fast* and actually making them work
 
 ---
@@ -17,7 +17,7 @@
 
 * **AviatesAir Tracker ✈️**
 
-  * FlightRadar mixed with vAMSYS type systems**
+  * FlightRadar mixed with vAMSYS type **systems**
   * Data from the app is linked with the website.
   * Advanced flight-tracking systems (not to toot my own horn)
   * Smooth **UI feedback & gameplay polish systems**
@@ -35,7 +35,7 @@
 ```txt
 Languages:
 - Lua (Roblox)
-- HTML (yes, I actually love HTML 😄)
+- HTML (My favourite)
 - C# (Painful)
 
 Core Skills:
@@ -53,7 +53,7 @@ Concepts:
 
 ## 🌍 What I Love
 
-* 💙 **Open Source** — I genuinely love the idea of people building together
+* 💙 **Open Source** — I love open source projects, as it shows transparency and allows other to work together.
 * 🌐 **HTML** — simple, powerful, and underrated
 * ✈️ **Aviation & Flight Simulation**
 * 🧩 Solving problems and making systems *feel right*
@@ -63,7 +63,7 @@ Concepts:
 ## 📈 Current Goals
 
 * 🚀 Build polished, high-quality app experiences
-* 🧠 Level up my programming to a more advanced level
+* 🧠 Bring my programming to a more advanced level
 * 🎨 Improve frontend + visual design (apps & interfaces)
 * 🌍 Contribute more to **open source projects**
 
@@ -75,7 +75,7 @@ I love Formula one, infact I even met Lando Norris once!
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s connect
 
 * Always open to collaborating, learning, and building cool stuff
 
